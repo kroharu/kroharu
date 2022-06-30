@@ -17,3 +17,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kroharu&style=for-the-badge&color=CCEF00">
 </p>
+
+## 🚀 Codewars
+<p align="center"><img src="https://github.com/kroharu/kroharu/blob/master/Screen%20Shot%202022-06-30%20at%201.22.33%20PM.png" /></p>
