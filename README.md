@@ -1,4 +1,4 @@
-# Hi 👋, I'm Kira
+# Hi 👋, I'm Ivan
 
 - 🎓 A BMSTU Engineer-Constructor student, who is also studying Programming at `21 School`, Moscow (École 42)
 - ✨ I’m currently learning `C++` and `Python`
