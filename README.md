@@ -4,7 +4,7 @@
 - ✨ I’m currently learning `C++` and `Python`
 - 📫 You can contact me via footbaii@mail.ru
 - 👯‍♀️ For 42 fellow students my `Intra` nickname is [ladrian](https://profile.intra.42.fr/users/ladrian), you can reach me on `Slack`
-- ⚡ Random facts about me: I love computer technic and same stuf, I miss travelling, I am a boxer, I am a professional singer and beer-lover
+- ⚡ Random facts about me: I love computer technic and same stuff, I miss travelling, I am a boxer, I am a professional singer and beer-lover
 
 ## 💻 Tools and Technologies
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kroharu&layout=compact&theme=graywhite&hide_border=true&hide=objective-c&langs_count=7" alt="kroharu" /></p>
