@@ -1,9 +1,8 @@
 # Hi 👋, I'm Ivan
 
-- 🎓 A BMSTU Engineer-Constructor student, who is also studying Programming at `21 School`, Moscow (École 42)
-- ✨ I’m currently learning `C++` and `Python`
-- 📫 You can contact me via footbaii@mail.ru
-- 👯‍♀️ For 42 fellow students my `Intra` nickname is [ladrian](https://profile.intra.42.fr/users/ladrian), you can reach me on `Slack`
+- 🎓 An Embedded Software Engineer at [MikroE](https://www.mikroe.com)
+- ✨ I’m currently learning `Python Scripting`
+- 📫 You can contact me via ivan.ruzavin98@gmail.com
 - ⚡ Random facts about me: I love computer technic and same stuff, I miss travelling, I am a boxer, I am a professional singer and beer-lover
 
 ## 💻 Tools and Technologies
