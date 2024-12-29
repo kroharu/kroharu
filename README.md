@@ -53,7 +53,7 @@
 ## 🎯 Codewars  
 
 <p align="center">
-  <img src="https://github.com/kroharu/kroharu/blob/master/Screen%20Shot%202022-06-30%20at%201.22.33%20PM.png" alt="Codewars Badge" />
+  <img src="https://www.codewars.com/users/ladrian/badges/large?logo=false" alt="Codewars Badge" />
 </p>
 
 ---
