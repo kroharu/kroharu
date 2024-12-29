@@ -24,7 +24,9 @@
   - Implemented **TinyUSB stack support**, enhancing USB device capabilities for various MCUs.  
 
 - 📚 **Corporate Contributions**:  
-  At MikroE, I contribute to **[mikroSDK](https://github.com/MikroElektronika/mikrosdk_v2)** and **[CORE support](https://github.com/MikroElektronika/core_packages)**, ensuring robust SDK support for a wide range of architectures.  
+  At MikroE, I contribute to **[mikroSDK](https://github.com/MikroElektronika/mikrosdk_v2)** and **[CORE support](https://github.com/MikroElektronika/core_packages)**, ensuring robust SDK support for a wide range of architectures.
+  Most of my professional work is available on my corporate GitHub account:  
+  👉 [IvanRuzavin Corporate GitHub](https://github.com/IvanRuzavin)  
 
 ---
 
