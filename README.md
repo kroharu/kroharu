@@ -45,7 +45,7 @@
 </p>
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=IvanRuzavin&theme=minimal&line=CCEF00&point=FF4E15&custom_title=Recent+Activity" alt="kroharu's Contribution Graph" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=kroharu&theme=minimal&line=CCEF00&point=FF4E15&custom_title=Recent+Activity" alt="kroharu's Contribution Graph" />
 </p>
 
 ---
