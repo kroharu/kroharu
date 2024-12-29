@@ -31,7 +31,7 @@
 ## 🔧 Tools and Technologies  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kroharu&layout=compact&theme=graywhite&hide_border=true&hide=objective-c&langs_count=7" alt="kroharu's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanRuzavin&layout=compact&theme=graywhite&hide_border=true&hide=objective-c&langs_count=7" alt="kroharu's Top Languages" />
 </p>
 
 ---
@@ -39,11 +39,11 @@
 ## 🔥 Activity Stats  
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=kroharu&theme=graywhite&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=CCEF00&fire=FF4E15" alt="kroharu's Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=IvanRuzavin&theme=graywhite&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=CCEF00&fire=FF4E15" alt="kroharu's Streak Stats" />
 </p>
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=kroharu&theme=minimal&line=CCEF00&point=FF4E15&custom_title=Recent+Activity" alt="kroharu's Contribution Graph" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=IvanRuzavin&theme=minimal&line=CCEF00&point=FF4E15&custom_title=Recent+Activity" alt="kroharu's Contribution Graph" />
 </p>
 
 ---
