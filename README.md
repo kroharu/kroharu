@@ -31,7 +31,7 @@
 ## 🔧 Tools and Technologies  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanRuzavin&layout=compact&theme=graywhite&hide_border=true&hide=objective-c&langs_count=7" alt="kroharu's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kroharu&layout=compact&theme=graywhite&hide_border=true&hide=objective-c&langs_count=7" alt="kroharu's Top Languages" />
 </p>
 
 ---
