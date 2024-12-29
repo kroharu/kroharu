@@ -44,9 +44,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=IvanRuzavin&theme=graywhite&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=CCEF00&fire=FF4E15" alt="kroharu's Streak Stats" />
 </p>
 
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=kroharu&theme=minimal&line=CCEF00&point=FF4E15&custom_title=Recent+Activity" alt="kroharu's Contribution Graph" />
-</p>
+[![kroharu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=IvanRuzavin&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
