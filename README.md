@@ -18,14 +18,14 @@
   My primary focus is creating unified SDKs for peripherals like **I2C, SPI, UART, ADC, Ethernet**, and **CAN** and exploring more complex modules like VGA and HDMI for my personal projects.  
 
 - 🛠️ **Technologies and Implementations**:  
-  - Developed **CycloneTCP Ethernet support**, enabling seamless network communication.  
-  - Integrated **CAN protocol support** across multiple architectures.  
-  - Designed efficient **DMA support** for high-speed data transfer.  
-  - Implemented **TinyUSB stack support**, enhancing USB device capabilities for various MCUs.  
+  - Developed **[CycloneTCP Ethernet support](https://github.com/MikroElektronika/mikrosdk_v2/tree/master/thirdparty/ethernet)**, enabling seamless network communication.
+  - Integrated **CAN protocol support** across multiple architectures.
+  - Designed efficient **DMA support** for high-speed data transfer.
+  - Implemented **[TinyUSB stack support](https://github.com/MikroElektronika/mikrosdk_v2/tree/master/thirdparty/usb)**, enhancing USB device capabilities for various MCUs.
 
 - 📚 **Corporate Contributions**:  
   At MikroE, I contribute to **[mikroSDK](https://github.com/MikroElektronika/mikrosdk_v2)** and **[CORE support](https://github.com/MikroElektronika/core_packages)**, ensuring robust SDK support for a wide range of architectures.
-  Most of my professional work is available on my corporate GitHub account:  
+  Most of my professional work is available on my corporate GitHub account:
   👉 [IvanRuzavin Corporate GitHub](https://github.com/IvanRuzavin)  
 
 ---
