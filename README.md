@@ -73,5 +73,5 @@
 - 🌍 I miss traveling and exploring new places.  
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kroharu&style=for-the-badge&color=CCEF00" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=IvanRuzavin&style=for-the-badge&color=CCEF00" alt="Profile Views" />
 </p>
