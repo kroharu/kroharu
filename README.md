@@ -17,7 +17,7 @@
   - **Renesas**
   - **TOSHIBA**
 
-  My primary focus is creating unified SDKs for peripherals like **I2C, SPI, UART, ADC, Ethernet**, and **CAN** and exploring more complex modules like VGA and HDMI for my personal projects.  
+  My primary focus is creating unified SDKs for peripherals like **I2C, SPI, UART, ADC, PMW, USB, Ethernet**, and **CAN** and exploring more complex modules like VGA and HDMI for my personal projects.  
 
 - 🛠️ **Technologies and Implementations**:  
   - Developed **[CycloneTCP Ethernet support](https://github.com/MikroElektronika/mikrosdk_v2/tree/master/thirdparty/ethernet)**, enabling seamless network communication.
