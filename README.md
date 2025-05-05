@@ -13,7 +13,9 @@
   - **Microchip PIC18, dsPIC, and PIC32**  
   - **GigaDevice GD32**  
   - **AVR, ATmega**  
-  - **ATSAM Series**  
+  - **ATSAM Series**
+  - **Renesas**
+  - **TOSHIBA**
 
   My primary focus is creating unified SDKs for peripherals like **I2C, SPI, UART, ADC, Ethernet**, and **CAN** and exploring more complex modules like VGA and HDMI for my personal projects.  
 
@@ -58,7 +60,7 @@
 
 ## 📫 Get in Touch  
 
-- 📧 **Email**: [footbaii@mail.com](mailto:footbaii@mail.com)  
+- 📧 **Email**: [ivan.ruzavin98@gmail.com](mailto:ivan.ruzavin98@gmail.com)  
 - 💼 **LinkedIn**: [Ivan Ruzavin](https://www.linkedin.com/in/ivan-ruzavin-825b20251/) 
 
 ---
